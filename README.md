@@ -1,9 +1,13 @@
 # Current state: initial planning
 
 # ToDo
-basic layout
-basic navigation
-wireframe and layout
+- wireframe
+- fix issue #1
+- polish title/landing page
+
+# Completed
+- basic layout
+- basic navigation
 
 # website-testing
  to be merged into responsive website
