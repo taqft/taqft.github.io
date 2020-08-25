@@ -1,4 +1,4 @@
-# Current state: initial planning
+# Current state: drafting layout
 
 # ToDo
 - wireframe
